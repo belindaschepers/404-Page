@@ -1,0 +1,30 @@
+body {
+
+    background: -webkit-linear-gradient(51deg, rgb(127, 62, 187), rgb(20, 3, 33));
+    background: linear-gradient(51deg, rgb(127, 62, 187), rgb(20, 3, 33));
+    color: white;
+}
+
+h1 {
+    position:absolute;
+    left: 45%;
+    top: 50%;
+    font-size: 50px;
+    margin-left: -100px;
+    margin-top: -100px;
+    
+}
+
+.bouton a {
+    display:block;
+    width:150px;
+    line-height:50px;
+    text-align:center;
+    background: black no-repeat;
+    color:white;
+    text-decoration:none;
+    }
+    .bouton a:hover {
+    background:grey no-repeat;
+}
+    
